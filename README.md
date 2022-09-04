@@ -10,6 +10,7 @@
 ###### The badusb downloads the chrome file when it is considered dangerous. ######
 
 ###### Software used: arduino ######
+###### any suggestion to saturnXIII@proton.me #####
 
 ###### I am not guilty of actions done with this program. #####
 ######
