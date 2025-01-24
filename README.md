@@ -25,3 +25,6 @@ For digispark: go to https://dukweeno.github.io/Duckuino/ and paste the text in 
 how to do ? create a new directory in github paste your file "payload.exe" publish. Then right click on your payload copy the link then paste it in "link"
 
 ![image](https://user-images.githubusercontent.com/103066353/167156636-3eb61b59-4d15-4845-b534-db2e4321f745.png)
+
+> This project is for educational and ethical purposes only. Any illegal or malicious use is strictly prohibited.
+The author assumes no responsibility for any misuse. Use only in controlled environments and with proper authorization. 
